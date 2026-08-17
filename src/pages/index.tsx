@@ -16,7 +16,7 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           <strong>Intelligent Robot Systems</strong>
         </Heading>
-        <p className="hero__subtitle">16-280 Carnegie Mellon University, Fall 2026</p>
+        <p className="hero__subtitle">16-280, Fall 2026, Carnegie Mellon University</p>
       </div>
     </header>
   );
@@ -31,7 +31,7 @@ function HomepageContent() {
             <div className="margin-vert--lg">
               <Heading as="h1">Course Description</Heading>
               <p>
-              This undergraduate course in programming for robotics covers essential topics for designing and implementing cognition algorithms for robotic systems. Students will learn about the design patterns and implementation of search, planning, perception, control, and deep neural networks for robotics. Additionally, the course covers software best practices, including the Robot Operating System (ROS), Linux administration, and embedded systems. Through hands-on programming assignments and projects, students will gain practical experience in implementing these algorithms on real robotic platforms. By the end of the course, students will have a strong foundation in programming for robotics and the ability to design and implement cognition algorithms for robotic systems using software best practices.
+                This undergraduate course in programming for robotics covers essential topics for designing and implementing cognition algorithms for robotic systems. Students will learn design patterns and implementations for the sense, plan, and act framework in robotics. The course also covers software best practices and tools, including the Robot Operating System (ROS2), Linux administration, and Git. Through hands-on programming assignments and projects, students will gain practical experience implementing these algorithms on real robotic platforms. By the end of the course, students will have a strong foundation in robotics programming and the ability to design and implement cognition algorithms using effective software practices.
               </p>
             </div>
           </div>
