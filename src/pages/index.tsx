@@ -14,9 +14,9 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          <strong>Intelligent Robot Systems</strong>
+          <strong>16-280 Intelligent Robot Systems</strong>
         </Heading>
-        <p className="hero__subtitle">16-280, Fall 2026, Carnegie Mellon University</p>
+        <p className="hero__subtitle">Fall 2026, Carnegie Mellon University</p>
       </div>
     </header>
   );
@@ -110,7 +110,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Course website for 16-280 Intelligent Robotic Systems">
+      description="Course website for 16-280 Intelligent Robot Systems">
       <HomepageHeader />
       <HomepageContent />
     </Layout>
