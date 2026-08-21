@@ -3,16 +3,6 @@ sidebar_position: 1
 ---
 # Logistics
 
-## Course Information
-
-**Course Number**: 16-280
-
-**Course Title**: Intelligent Robot Systems
-
-**Semester**: Fall 2026
-
-**Prerequisites**: 15122 and (21254 or 18202 or 21241). Strong Programming background in C++ and Python is expected.**21-241 or 18-202 or 21-254. Strong background in C/C++ and Python is expected
-
 ## Class Schedule
 
 **Lectures**: Tuesday & Thursday 15:30-16:50

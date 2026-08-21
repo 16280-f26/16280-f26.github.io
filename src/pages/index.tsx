@@ -40,6 +40,17 @@ function HomepageContent() {
         <div className="row">
           <div className="col col--12">
             <div className="margin-vert--lg">
+              <Heading as="h2">Prerequisites</Heading>
+                <p>
+                  15122 and (21254 or 18202 or 21241). Strong Programming background in C++ and Python is expected.
+                </p>
+            </div>
+          </div>
+        </div>
+
+        <div className="row">
+          <div className="col col--12">
+            <div className="margin-vert--lg">
               <Heading as="h2">Course Staff</Heading>
               
               <div className="row">
@@ -103,10 +114,11 @@ function HomepageContent() {
         <div className="row">
           <div className="col col--12">
             <div className="margin-vert--lg">
-              <Heading as="h1">Previous Courses</Heading>
+              <Heading as="h2">Previous Offerings</Heading>
               <a href="https://16280-f25.github.io/">
                 16-280 Fall 2025
               </a>
+                16-280 Spring 2025 (Canvas only)
             </div>
           </div>
         </div>
