@@ -103,9 +103,9 @@ function HomepageContent() {
         <div className="row">
           <div className="col col--12">
             <div className="margin-vert--lg">
-              <Heading as="h1">Course Description</Heading>
+              <Heading as="h1">Previous Courses</Heading>
               <a href="https://16280-f25.github.io/">
-                16-280 Fall 2025 Course Page
+                16-280 Fall 2025
               </a>
             </div>
           </div>
