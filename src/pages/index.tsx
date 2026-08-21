@@ -115,10 +115,14 @@ function HomepageContent() {
           <div className="col col--12">
             <div className="margin-vert--lg">
               <Heading as="h2">Previous Offerings</Heading>
-              <a href="https://16280-f25.github.io/">
-                16-280 Fall 2025
-              </a>
+              <p>
+                <a href="https://16280-f25.github.io/">
+                  16-280 Fall 2025
+                </a>
+              </p>
+              <p>
                 16-280 Spring 2025 (Canvas only)
+              </p>
             </div>
           </div>
         </div>
