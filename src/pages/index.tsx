@@ -99,6 +99,18 @@ function HomepageContent() {
             </div>
           </div>
         </div>
+        
+        <div className="row">
+          <div className="col col--12">
+            <div className="margin-vert--lg">
+              <Heading as="h1">Course Description</Heading>
+              <a href="https://16280-f25.github.io/">
+                16-280 Fall 2025 Course Page
+              </a>
+            </div>
+          </div>
+        </div>
+
       </div>
     </main>
   );
