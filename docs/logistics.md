@@ -6,15 +6,21 @@ sidebar_position: 1
 ## Course Information
 
 **Course Number**: 16-280
+
 **Course Title**: Intelligent Robotic Systems
+
 **Semester**: Fall 2026
+
 **Prerequisites**: 15122 and (21254 or 18202 or 21241). Strong Programming background in C++ and Python is expected.**21-241 or 18-202 or 21-254. Strong background in C/C++ and Python is expected
 
 ## Class Schedule
 
 **Lectures**: Tuesday & Thursday 15:30-16:50
+
 **Location**: POS 151
+
 **Recitations**: Friday 10:00AM-11:50AM
+
 **Location**: REL (Robotics Education Lab) located at NSH 1201
 
 ## Office Hours
