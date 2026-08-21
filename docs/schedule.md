@@ -1,33 +1,50 @@
-| Date          | Topic                                                                              | Assignments | Resources | Recitation |
-| ------------- | ---------------------------------------------------------------------------------- | ----------- | --------- | ---------- |
-| Aug 25 (Tue) | Systems Overview: Hardware, Software & Integration                                 |             |           |            |
-| Aug 27 (Thu)  | Introduction to ROS2 Programming                                                   |             |           |            |
-| Aug 28 (Tue) | Sensors Used in Robotics                                                           |             |           |            |
-| Sep 4 (Thu)   | Sensor Fusion: Complementary Filters                                               |             |           |            |
-| Sep 9 (Tue)   | Kinematics, Odometry, Coordinate Frames                                            |             |           |            |
-| Sep 11 (Thu)  | Pose                                                                               |             |           |            |
-| Sep 16 (Tue)  | Probabilistic Concepts + Mapping 1                                                 |             |           |            |
-| Sep 18 (Thu)  | Mapping 2                                                                          |             |           |            |
-| Sep 23 (Tue)  | Localization 1                                                                     |             |           |            |
-| Sep 25 (Thu)  | Localization 2                                                                     |             |           |            |
-| Sep 30 (Tue)  | Midterm Review                                                                     |             |           |            |
-| Oct 2 (Thu)   | Exam 1                                                                             |             |           |            |
-| Oct 7 (Tue)   | Computer Vision I                                                                  |             |           |            |
-| Oct 9 (Thu)   | Computer Vision II                                                                 |             |           |            |
-| Oct 14 (Tue)  | **No Class – Fall Break**                                                         |             |           |            |
-| Oct 16 (Thu)  | **No Class – Fall Break**                                                         |             |           |            |
-| Oct 21 (Tue)  | Learning I: Perceptron & Backpropagation                                           |             |           |            |
-| Oct 23 (Thu)  | Learning II: MLP, CNN, Training & Metrics                                          |             |           |            |
-| Oct 28 (Tue)  | Planning I: Graph Planners[Fall 25 Recording](https://youtu.be/-hz4XOJO4N4)           |             |           |            |
-| Oct 30 (Thu)  | Planning II: Sampling-based Planners[Fall 25 Recording](https://youtu.be/RjW22CQWMPk) |             |           |            |
-| Nov 4 (Tue)   | **Democracy Day – No Class**                                                      |             |           |            |
-| Nov 6 (Thu)   | Planning III: Cost maps, C-space, Local & Global Planners                          |             |           |            |
-| Nov 11 (Tue)  | Learning for Navigation: DAGGER                                                    |             |           |            |
-| Nov 13 (Thu)  | Manipulation I                                                                     |             |           |            |
-| Nov 18 (Tue)  | Manipulation II                                                                    |             |           |            |
-| Nov 20 (Thu)  | Systems Integration                                                                |             |           |            |
-| Nov 25 (Tue)  | Exam 2                                                                             |             |           |            |
-| Nov 27 (Thu)  | **Thanksgiving – No Class**                                                       |             |           |            |
-| Dec 2 (Tue)   | Course Summary                                                                     |             |           |            |
-| Dec 4 (Thu)   | No Class - Demo Prep                                                               |             |           |            |
-| Dec 9 (Tue)   | **Reading Day – No Class**                                                        |             |           |            |
+| Date         | Topic                                                 | Assignments         | Resources | Recitation                                                               |
+| ------------ | ----------------------------------------------------- | ------------------- | --------- | ------------------------------------------------------------------------ |
+| Aug 25 (Tue) | Systems Overview: Hardware, Software & Integration    | HW1 out             |           |                                                                          |
+| Aug 27 (Thu) | Introduction to ROS2 Programming 1                    |                     |           |                                                                          |
+| Aug 28 (Fri) |                                                       |                     |           | Recitation 1: Help with ROS2, concepts, compilation, live examples, etc. |
+| Sep 1 (Tue)  | Sensors Used in Robotics                              | HW1 due / HW2 out   |           |                                                                          |
+| Sep 3 (Thu)  | Sensor Fusion: Complementary Filters                  |                     |           |                                                                          |
+| Sep 4 (Fri)  |                                                       |                     |           | Recitation 2: Help with software config, networking, ROS2, etc.          |
+| Sep 8 (Tue)  | Robot Pose 1: Kinematics, Odometry, Coordinate Frames | HW2 due / HW3 out   |           |                                                                          |
+| Sep 10 (Thu) | Robot Pose 2: ICP 1                                   |                     |           |                                                                          |
+| Sep 11 (Fri) |                                                       |                     |           | Recitation 3: Tutorials on pose and kinematics                           |
+| Sep 15 (Tue) | Robot Pose 3: ICP 2                                   | HW3 due / HW4 out   |           |                                                                          |
+| Sep 17 (Thu) | Probabilistic Concepts + Mapping                      |                     |           |                                                                          |
+| Sep 18 (Fri) |                                                       |                     |           | Recitation 4: Tutorials on ICP and mapping                               |
+| Sep 22 (Tue) | Probabilistic Concepts + Localization                 | HW4 due / HW5 out   |           |                                                                          |
+| Sep 24 (Thu) | Introduction to ROS2 Programming 2                    |                     |           |                                                                          |
+| Sep 25 (Fri) |                                                       |                     |           | Recitation 5: Previous midterm reviews                                   |
+| Sep 29 (Tue) | Midterm Review / Class                                | HW5 due / HW6 out   |           |                                                                          |
+| Oct 1 (Thu)  | Midterm 1                                             |                     |           |                                                                          |
+| Oct 2 (Fri)  |                                                       |                     |           | No Recitation                                                            |
+| Oct 6 (Tue)  | Computer Vision I                                     | HW6 due / HW7 out   |           |                                                                          |
+| Oct 8 (Thu)  | Computer Vision II                                    |                     |           |                                                                          |
+| Oct 9 (Fri)  |                                                       |                     |           | Recitation 6: OpenCV tutorials, ROS2 vision tools                        |
+| Oct 13 (Tue) | No Class - Fall Break                                 |                     |           |                                                                          |
+| Oct 15 (Thu) | No Class - Fall Break                                 |                     |           |                                                                          |
+| Oct 16 (Fri) | No Class - Fall Break                                 |                     |           |                                                                          |
+| Oct 20 (Tue) | Computer Vision III                                   | HW7 due / HW8 out   |           |                                                                          |
+| Oct 22 (Thu) | Computer Vision IV                                    |                     |           |                                                                          |
+| Oct 23 (Fri) |                                                       |                     |           | Recitation 7: Tutorials on PyTorch                                       |
+| Oct 27 (Tue) | Planning I                                            | HW8 due / HW9a out  |           |                                                                          |
+| Oct 29 (Thu) | Planning II                                           |                     |           |                                                                          |
+| Oct 30 (Fri) |                                                       |                     |           | Recitation 8: Tutorials on basics of planning                            |
+| Nov 3 (Tue)  | No Class - Democracy Day                              | HW9a due / HW9b out |           |                                                                          |
+| Nov 5 (Thu)  | Planning III                                          |                     |           |                                                                          |
+| Nov 6 (Fri)  |                                                       |                     |           | Recitation 9: If required                                                |
+| Nov 10 (Tue) | Manipulation I                                        | HW9b due / HW10 out |           |                                                                          |
+| Nov 12 (Thu) | Manipulation II                                       |                     |           |                                                                          |
+| Nov 13 (Fri) |                                                       |                     |           | Recitation 10: Manipulation tutorial / software setup                    |
+| Nov 17 (Tue) | System Integration I                                  | HW10 due / HW11 out |           |                                                                          |
+| Nov 19 (Thu) | Course Summary                                        |                     |           |                                                                          |
+| Nov 20 (Fri) |                                                       |                     |           | Recitation 11: Midterm 2                                                 |
+| Nov 24 (Tue) | Midterm 2                                             |                     |           |                                                                          |
+| Nov 26 (Thu) | No Class - Thanksgiving                               |                     |           |                                                                          |
+| Nov 27 (Fri) | No Class - Thanksgiving                               |                     |           |                                                                          |
+| Dec 1 (Tue)  | Final Demo Prep - Class at REL                        | HW11                |           |                                                                          |
+| Dec 3 (Thu)  | Final Project Demo (Parallel Demos)                   |                     |           |                                                                          |
+| Dec 4 (Fri)  | Final Project Demo - Backup - Final Day of Classes    |                     |           |                                                                          |
+| Dec 7-11     | Finals Week                                           |                     |           |                                                                          |
+| Dec 14       | Grades Published                                      |                     |           |                                                                          |
+| Dec 16       | Final Grades Due                                      |                     |           |                                                                          |
