@@ -1,6 +1,6 @@
 | Date         | Topic                                                 | Assignments         | Resources | Recitation                                                               |
 | ------------ | ----------------------------------------------------- | ------------------- | --------- | ------------------------------------------------------------------------ |
-| Aug 25 (Tue) | Systems Overview: Hardware, Software & Integration    | HW1 out             |           |                                                                          |
+| Aug&nbsp; 25&nbsp; (Tue) | Systems Overview: Hardware, Software & Integration    | HW1 out             |           |                                                                          |
 | Aug 27 (Thu) | Introduction to ROS2 Programming 1                    |                     |           |                                                                          |
 | Aug 28 (Fri) |                                                       |                     |           | Recitation 1: Help with ROS2, concepts, compilation, live examples, etc. |
 | Sep 1 (Tue)  | Sensors Used in Robotics                              | HW1 due / HW2 out   |           |                                                                          |
