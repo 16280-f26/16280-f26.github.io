@@ -69,11 +69,12 @@ const config: Config = {
           label: 'Schedule',
           position: 'left',
         },
-        {
+     /*   {
           to: '/docs/attendance',
           label: 'Attendance',
           position: 'left',
         },
+      */  
         {
           to: 'https://ohq.eberly.cmu.edu/#/courses',
           label: 'OH Queue',

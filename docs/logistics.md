@@ -7,7 +7,7 @@ sidebar_position: 1
 
 **Course Number**: 16-280
 
-**Course Title**: Intelligent Robotic Systems
+**Course Title**: Intelligent Robot Systems
 
 **Semester**: Fall 2026
 
