@@ -42,7 +42,7 @@ Debugging systems takes time. Do your part by starting assignments and seeking h
 We will add helpful resources throughout the semester for topics that we cover, which you can find in the Schedule tab.
 The following set of resources will also prove useful over the course of the semester:
 
-1) [ROS2 Jazzy Documentation](https://docs.ros.org/en/jazzy/index.html)
+1) [ROS2 Jazzy Instructions](https://drive.google.com/file/d/1vSJwvtVZZ9KBDw8slUsOH4ikDALbUwW3/view?usp=sharing)
 2) [C++ Course Manual](https://drive.google.com/file/d/1Gucc_xUtnFeLs7rf2--DB9gojARH4IfX/view?usp=sharing)
 3) [C++ Docs](https://cplusplus.com/doc/tutorial/)
 4) [Linux Course Manual](https://drive.google.com/file/d/16JIvEdVhhJPHVXuGlunlxZn06xEDu15n/view?usp=sharing)
