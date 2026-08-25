@@ -20,12 +20,22 @@ Debugging systems takes time. Do your part by starting assignments and seeking h
 
 **All TA office hours are held at REL.**
 
+| Staff       | Day                      | Time          |
+| --------- | -------------------------- | --------------|
+| Aarron    | Monday                    | 17:00 - 18:00  |
+| Sachet    | Tuesday                   | 17:00 - 18:00  |
+| Prof. Silwal      |Thursday (NSH 2100D)|  17:00 - 18:00  |  
+| Kacper    | Monday | 18:00 - 19:00 |
+| Bharat    | Friday | 10:00 - Noon|
 
+<!--
 | Day       | Time                      | Staff          |
 | --------- | ------------------------- | -------------- |
+| Monday    | 16:00-17:00, 17:00-18:00  | Bharat, Sachet |
 | Tuesday   | 16:00-17:00, 17:00-18:00  | Bharat, Sachet |
 | Wednesday | 17:00-18:00 (NSH 2100D)   | Prof. Silwal   |
 | Friday    | 16:00-17:00, 17:00-18:00 | Aarron, Kacper |
+ -->
 
 ## Helpful Resources
 
