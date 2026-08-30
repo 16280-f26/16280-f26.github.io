@@ -14,15 +14,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://16280.github.io',
+  url: 'https://16280-f26.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: '16280', // Usually your GitHub org/user name.
-  projectName: '16280.github.io', // Usually your repo name.
+  organizationName: '16280-f26', // Usually your GitHub org/user name.
+  projectName: '16280-f26.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -81,7 +81,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/16280-f25',
+          href: 'https://github.com/16280-f26',
           label: 'GitHub',
           position: 'right',
         },
