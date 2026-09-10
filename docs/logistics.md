@@ -23,7 +23,7 @@ Debugging systems takes time. Do your part by starting assignments and seeking h
 | Staff       | Day                      | Time          |
 | --------- | -------------------------- | --------------|
 | Aarron    | Monday                    | 17:00 - 18:00  |
-| Sachet    | Tuesday                   | 17:00 - 18:00  |
+| Sachet    | Tuesday, Thursday                   | 17:00 - 18:00, 17:00 - 18:00  |
 | Prof. Silwal      |Thursday (NSH 2100D)|  17:00 - 18:00  |  
 | Kacper    | Monday | 18:00 - 19:00 |
 | Bharat    | Friday | 10:00 - Noon|
