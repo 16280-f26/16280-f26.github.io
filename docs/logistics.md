@@ -20,14 +20,14 @@ Debugging systems takes time. Do your part by starting assignments and seeking h
 
 **All TA office hours are held at REL.**
 
-| Staff       | Day                      | Time          |
-| --------- | -------------------------- | --------------|
-| Aarron    | Monday                    | 17:00 - 18:00  |
-| Sachet    | Tuesday, Thursday                   | 17:00 - 18:00, 17:00 - 18:00  |
-| Prof. Silwal      |Thursday (NSH 2100D)|  17:00 - 18:00  |  
-| Kacper    | Tuesday | 18:00 - 19:00 |
-| Bharat    | Friday | 10:00 - Noon|
 
+| Staff        | Day                  | Time                         |
+| ------------ | -------------------- | ---------------------------- |
+| Aarron       | Monday               | 17:00 - 18:00                |
+| Sachet       | Tuesday, Thursday    | 17:00 - 18:00, 17:00 - 18:00 |
+| Prof. Silwal | Thursday (NSH 2100D) | 17:00 - 18:00                |
+| Kacper       | Tuesday              | 18:00 - 19:00                |
+| Bharat       | Friday               | 10:00 - Noon                 |
 
 ## Helpful Resources
 
@@ -76,8 +76,8 @@ We try to weigh assignments proportionally to their anticipated difficulty and t
 | 7  | 4%     |
 | 8  | 5%     |
 | 9  | 4%     |
-| 10 | 15%    |
-| 11 | 5%     |
+| 10 | 5%     |
+| 11 | 15%    |
 
 ### Boundaries & Curving
 
